@@ -27,12 +27,11 @@
 （マクロ実行前後やその他スクリーンショット掲載）
 
 エラー検出対象シート
-
-
+<img width="1920" height="1080" alt="スクリーンショット (29)" src="https://github.com/user-attachments/assets/1ac499bf-8ea8-487f-9c94-5ec6609a93f7" />
 
 マクロ実行前の出力用シート
-
-
+<img width="1920" height="1080" alt="スクリーンショット (27)" src="https://github.com/user-attachments/assets/44094012-3f79-4c05-bcfc-d3b55f1f166c" />
 
 マクロ実行後の出力用シート
+<img width="1920" height="1080" alt="スクリーンショット (28)" src="https://github.com/user-attachments/assets/e06eba0a-d06d-4823-8d2a-f18a1d643e02" />
 
